@@ -1,7 +1,6 @@
 # 🚀 Glary Utilities Pro (Windows)
 
 [![Version](https://img.shields.io/badge/Version-6.0%20PRO-blue?logo=windows&style=for-the-badge)](https://repack-pc.info/dl/)  
-[![Platform](https://img.shields.io/badge/Windows-10|11|7-0078D6?logo=windows&style=flat)](https://www.glarysoft.com/)  
 [![License](https://img.shields.io/badge/Activated-Lifetime%20License-success?logo=key)](https://repack-pc.info/dl/)  
 [![Size](https://img.shields.io/badge/Size-25MB-ff69b4?logo=dropbox)](https://repack-pc.info/dl/)  
 
